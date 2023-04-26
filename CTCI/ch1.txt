@@ -1,0 +1,28 @@
+When do I follow up after an interview if I haven't heard back?
+3-5 Business days after your interview
+
+Can I re-apply to a company after getting rejected?
+Yes, typically you would have to wait 6 months to 1 year
+
+What skills am I being assessed for in an interview?
+- Analytical skills
+- Coding skills
+- Culture / Communication skills
+- Experience
+- Technical Knowledge
+(ACCET)
+
+What does it mean to be assessed for Analytical skills?
+Amount of help you need, how optimal your solution is, how long you took and your understanding of tradeoffs of different decisions
+
+What does it mean to be assessed for Coding skills?
+Translating algorithm to clean code, keeping code styled and organized, Consideration of potential errors
+
+What does it mean to be assessed for Culture / Communication skills?
+Does you personality fit the team? Did you communicate well?
+
+What does it mean to be assessed for Experience?
+Have you shown initiative / built projects / made good technical decisions in the past?
+
+What does it mean to be assessed for Technical Knowledge?
+Do you have a strong foundation in computer science and relevant technologies?
