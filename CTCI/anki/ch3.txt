@@ -1,0 +1,38 @@
+How are experienced candidates assessed differently?
+They will be expected to give more in-depth and impressive responses to questions as well as more emphasis on system design
+
+How are SDET candidates assessed differently?
+They will be expected to know how to code and how to test things extensively as well as more emphasis on communication
+
+How are PM candidates assessed differently?
+They will be expected to handle ambiguit, have a customer-focused attitude, leadership skills, and multi-level communication skills
+
+How are Dev Lead and Manager candidates assessed differently?
+They are assesed on Leadership, Prioritization, Communication and ability to get things done
+
+How do startups hire differently?
+They prioritize referrals, are less able to sponsor work visas and prefer hires that are able to hit the ground running
+
+How do acquihires work?
+If a startup is in talks of getting acquired by a bigger company and the talks are serious, now each employee of a startup suddenly needs to be interviewed by this bigger company
+
+What difficulty of questions are good to ask when interviewing candidates?
+Medium and Hard Problems
+
+What are "scary" questions to avoid asking when interviewing candidates?
+Math, probability, low-level, system design, properietary systems
+
+What are some communication tips for when interviewing candidates?
+Coach your candidate a bit, offer positive reinforcement, probe behavioural quesitons for what they did, and ask questions that have multiple hurdles and that don't expect obscure knowledge
+
+What are sanity check questions?
+Questions that assess a minimum degree of competence in problem-solving, useful for filter out bad candidates
+
+What are quality check questions?
+More challenging questions, when algorithmic / problem solving skills are important
+
+What are specialist questions?
+Specific topic questions like Java, use to check for true specialists in their respective topics.
+
+What are proxy knowledge questions?
+They are knowledge not quite for specialists, but you would expect a candidate to know if they are absorbing core information to their job
