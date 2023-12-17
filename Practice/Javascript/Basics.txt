@@ -1,0 +1,30 @@
+adding in js
+
+1+1;
+
+substracting in js
+
+7-1;
+
+multiplying in js
+
+10 * 2;
+
+dividing in js
+
+5 / 2; // = 2.5
+
+modulo division in js
+
+30 * 4; // = 2
+
+special js not a real number values
+
+NaN; // not a number
+Infinity; 
+-Infinity;
+
+js boolean types
+
+true;
+false;
